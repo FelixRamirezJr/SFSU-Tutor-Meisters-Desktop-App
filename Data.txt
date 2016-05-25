@@ -1,0 +1,6 @@
+Marketer,John smith,JSmith@gmail.com,Hi my name is JJ I am a marketer
+Developer,Felix Ramirez, FelixR@gmail.com,Hi my name is FF i am a dev
+Tutor,Leroy Jeinkens,LR@gmail.com,Hi name is LR,English spannish, c++ java
+Accountant,Homer Simpson, HSimp@gmail.com
+Tutor,Bart Simpson, asdfasdf,asdfasdf
+Developer,Marge Simpson, MS@yahoo.com, Hi My Name is...
